@@ -1,1 +1,5 @@
 PROCESS-NAME,com.tencent.mm
+PROCESS-NAME,com.eg.android.AlipayGphone
+PROCESS-NAME,com.alibaba.android.rimet
+PROCESS-NAME,net.oneplus.weather
+PROCESS-NAME,com.autonavi.manu.widget
